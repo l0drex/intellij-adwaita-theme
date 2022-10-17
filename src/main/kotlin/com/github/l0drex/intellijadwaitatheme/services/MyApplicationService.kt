@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.l0drex.intellijadwaitatheme.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.l0drex.intellijadwaitatheme.MyBundle
 
 class MyApplicationService {
 

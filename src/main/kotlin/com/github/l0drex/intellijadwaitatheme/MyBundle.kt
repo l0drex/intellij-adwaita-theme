@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.l0drex.intellijadwaitatheme
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
